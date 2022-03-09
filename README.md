@@ -1,3 +1,3 @@
-##Bertoti
+Bertoti
 
 Avaliação Heuristica
