@@ -19,5 +19,13 @@
 <img src="https://user-images.githubusercontent.com/56441237/171411135-fccaeb2b-7a01-4665-80cb-30e1388521b1.png"/>
 </p>
 <hr>
+  
+<h2>2.4 – Navigable</h2>
+<h3> Amazon </h3>
+<p> Na amazon, o usuario tem indices e dicionarios com diferentes categorias de produtos para facilitar a encontrar o produto desejado.</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/56441237/171412828-7c6753e8-e80e-4f32-baff-9b5c9109d50c.png"/>
+</p>
+<hr>
 
   
