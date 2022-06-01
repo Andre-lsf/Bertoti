@@ -12,6 +12,15 @@
 <hr>
 
 <h2>1.2 - Time-Based Media</h2>
+<h3>1.2.5 Audio Description</h3>
+<h3> Netflix </h3>
+<p> Netflix possui descrição de audio para diversos titulos</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/56441237/171414311-763ae0a2-6efc-44a8-8ad6-d3755d4cfe37.jpg"/>
+</p>
+<hr>
+
+<h2>1.2 - Time-Based Media</h2>
 <h3>1.2.6 Sign Language<h3>
 <h3> Site Oficial do Governo Brasileiro</h3>
 <p> O site do Governo possui ferramentas de Libras para tornar seus recursos mais acessiveis.</p>
