@@ -1,21 +1,45 @@
-Avaliação Heuristica
+<h1>Heuristica de Acessibilidade</h1>
+<hr>
 
-3.1 Readable
+<h2>1.1 Text Alternatives</h2>
+<h3>Site Samsung Brasil</h3>
+<p> Este site da Samsung Brasil possui um assistente virtual em libras para facilitar o acesso de pessoas com deficiencia auditiva ao site. Sendo encontrado na área de acessibilidade do site ou até mesmo no canto superior direito da tela</p>
+<p align="center">
+<p>Assistente Virtual</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/AssistenteLibrasSamsung.PNG" alt="Figura humana fazendo gestos em libras para ajudar a navegar no site"/ >
+<p>Botão de acessibilidade no rodapé </p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/AreaAcessibilidadeSamsung.png" alt="Botão de acessibilidade no rodapé do site"/>
+<p>Botão da assistente virtual</p>
+<img src="https://github.com/FelipeASousa/Bertoti/blob/main/IHC/AcessoLibras.png?raw=true" alt="Botão azul no canto superior dirteito da tela"/>
+</p>
+<hr>
+<h3>Site PayPal</h3>
+<p> O site oficial do Paypal no Brasil, não possui nenhum assistente virtual para ajudar qualquer tipo de deficiência que prejudique a experiência com o site.</p>
+<hr>
 
-  Exemplo de um site com opções de ajuste para facilitar o entendimento do publico
-  Oferece opções de customização para melhorar a experiencia do usuario.
 
-![Captura de Tela (3)](https://user-images.githubusercontent.com/56441237/157449602-b3fa0626-0f40-4d8c-b944-f3d1831239dd.png)
+<h2>1.2 - Time-Based Media</h2>
+<h3> Youtube</h3>
+<p> O site do Youtube oferece a ferramenta de legenda, que pode ser ativada pelo usuário, os videos possuem legendas geradas automaticamente ou por algum usuario autorizado.</p>
+<p align="center">
+<img src="![Captura de Tela (2)](https://user-images.githubusercontent.com/56441237/171407546-4323e7ad-1730-43b7-b195-bf16019eb051.png)"/>
+</p>
+<hr>
+<h3>Twitch</h3>
+<p> Twitce é um serviço de streaming de vídeo ao vivo e devido a esse molde, não possui geração de legenda em seus conteúdo, limitando seus usuários.</p>
+<hr>
 
 
-1.3 Adaptable
-
-  Exemplo de um site que não foi bem adaptado para o uso mobile, o site quebra e dificulta o entendimento.
-
-![Screenshot_20220309-103818_Chrome](https://user-images.githubusercontent.com/56441237/157453391-4a037e3f-ca29-405c-817a-ad5467a02334.jpg)
-
-
-1.2 Time-Based Media
-  1.2.4 Captions
-    O Youtube oferece legendas para os videos.
+<!--
+<h2></h2>
+<h3> </h3>
+<p> </p>
+<p align="center">
+<img src=""/>
+</p>
+<hr>
+<h3></h3>
+<p> </p>
+<hr>
+->
     
