@@ -53,3 +53,11 @@
 </p>
 <hr>
   
+<h2>3.3 – Input Assistance</h2>
+<h3> Google </h3>
+<p> A barra de pesquisa do google possui um auto-preenchimento para ajudar o usuario a encontrar sua pesquisa mais facilmente.</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/56441237/172620598-c21a8114-3d78-4490-850f-c1e8be86a6fc.png"/>
+</p>
+<hr>
+  
