@@ -29,14 +29,6 @@
 </p>
 <hr>
   
-<h2>2.4 – Navigable</h2>
-<h3> Amazon </h3>
-<p> Na amazon, o usuario tem indices e dicionarios com diferentes categorias de produtos para facilitar a encontrar o produto desejado.</p>
-<p align="center">
-<img src="https://user-images.githubusercontent.com/56441237/171412828-7c6753e8-e80e-4f32-baff-9b5c9109d50c.png"/>
-</p>
-<hr>
-
 <h2>1.3 - Adaptable</h2>
 <h3> Youtube </h3>
 <p> O aplicativo youtube possui uma interface adaptavel para mobile.</p>
@@ -44,12 +36,20 @@
 <img src="https://user-images.githubusercontent.com/56441237/172618639-8a5e2459-5528-475b-b67c-c34b91bee627.jpg"/>
 </p>
 <hr>
-  
+ 
 <h2>1.4 – Distinguishable</h2>
 <h3> Samsumg </h3>
 <p> A loja da samsumg possui um layout facil de se entender com slides para os anuncios de produtos.</p>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/56441237/172619123-022264b7-f801-4680-a6d0-6d2586eecf33.png"/>
+</p>
+<hr>
+ 
+<h2>2.4 – Navigable</h2>
+<h3> Amazon </h3>
+<p> Na amazon, o usuario tem indices e dicionarios com diferentes categorias de produtos para facilitar a encontrar o produto desejado.</p>
+<p align="center">
+<img src="https://user-images.githubusercontent.com/56441237/171412828-7c6753e8-e80e-4f32-baff-9b5c9109d50c.png"/>
 </p>
 <hr>
   
